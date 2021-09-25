@@ -9,3 +9,5 @@ This repo contains the source code associated with the article above.
 *webapi*: source code of the asp.net core webapi (.NET5)
 
 *config*: full config files (*systemd* and *nginx*).
+
+The resulting application hosted at home can be viewed at https://fullwebsitedemo.duckdns.org/
